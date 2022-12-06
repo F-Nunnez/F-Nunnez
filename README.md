@@ -4,7 +4,7 @@
    Hi there, Im Francisco 👋
 </h3>
 <h2 align="center">
-   I'm a Full-Stack Developer in <img src="https://user-images.githubusercontent.com/110621165/206036955-ecb08c1e-b31b-4f7e-8ab2-3975e38b2350.png" alt="python logo">, Java and MERN
+   I'm a Full-Stack Developer in Python, Java and MERN
 </h2>
 **F-Nunnez/F-Nunnez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

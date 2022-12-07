@@ -13,7 +13,7 @@
 - 🤔 I’m looking for help with ...
 - 💬 Questions / feedback, please reach out
 - 📫 How to reach me: francisconunez582@gmail.com
-- ![linkedin](https://img.shields.io/badge/linkedin-informational?style=flat&logo=linkedin&color=0A66C2):  linkedin.com/in/franknz
+- <p>![linkedin](https://img.shields.io/badge/linkedin-informational?style=flat&logo=linkedin&color=0A66C2) <code>linkedin.com/in/franknz</code></p>
 
 - ⚡ Fun fact:
 

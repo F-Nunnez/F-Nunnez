@@ -4,7 +4,7 @@
    Hi there, I'm Francisco 👋
 </h3>
 <h2 align="center">
-   I'm a Full-Stack Developer in `Python`, `Java` and `MERN` 
+   I'm a Full-Stack Developer in <code>Python</code>, <code>Java</code> and <code>MERN</code> 
 </h2>
 
 ### 💻 I’m currently working on
@@ -13,9 +13,11 @@
 - 🤔 I’m looking for help with ...
 - 💬 Questions / feedback, please reach out
 - 📫 How to reach me: francisconunez582@gmail.com
-- 
+- ![linkedin](https://img.shields.io/badge/linkedin-%0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white): linkedin.com/in/franknz
 - ⚡ Fun fact:
+
 <cite>My favourite hobby is; crossFit 🏋️‍♀️ 5 to 6 times a week.<cite> I have some ideas for a mobile app to track my workouts.
+   
 ### 🌱 I’m currently learning
 
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
@@ -46,6 +48,7 @@
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Material UI](https://img.shields.io/badge/mui-%007FFF.svg?style=for-the-badge&logo=mui&logoColor=white)   
 ![Jekyll](https://img.shields.io/badge/jekyll-%23404d59.svg?style=for-the-badge&logo=jekyll&logoColor=CC0000)
 ![springboot](https://img.shields.io/badge/springboot-%6DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
 
@@ -54,7 +57,7 @@
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
-### 🪡 IDEs/Editors
+🪡 IDEs/Editors
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![Atom](https://img.shields.io/badge/Atom-%2366595C.svg?style=for-the-badge&logo=atom&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)

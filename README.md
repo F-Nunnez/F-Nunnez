@@ -18,9 +18,9 @@
 - 
 - ⚡ Fun fact: ...
 
-<h4 color="blue">Francisco's GitHub Stats</h4>
+<h4 color="blue">Visitor Count</h4>
 
-<img src="https://profile-counter.glitch.me/*F-Nunnez*/count.svg" />
+<img src="https://profile-counter.glitch.me/F-Nunnez/count.svg" />
 
 [![Francisco's GitHub stats](https://github-readme-stats.vercel.app/api?username=F-Nunnez)](https://github.com/F-Nunnez/github-readme-stats)
 

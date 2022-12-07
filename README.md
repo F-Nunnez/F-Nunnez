@@ -36,6 +36,8 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 ## 🎓 Education
+![laguardiacc_logo](https://user-images.githubusercontent.com/110621165/206084872-a319ebc6-47db-42a7-893c-0c29650b77f0.jpg)
+
 ![coding-dojo](https://user-images.githubusercontent.com/110621165/206084000-2a50d121-e7aa-489f-bd69-e2c01e378a3e.png) | Full-Stack Developer Certificate in Python, Java and MERN
 
 ![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)

@@ -39,7 +39,7 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![SQL](https://user-images.githubusercontent.com/110621165/206093364-e0a9e92c-2de0-485d-8421-7cf65a78a9b0.png)
 
-- Frameworks/Libraries:
+📚 Frameworks/Libraries:
 
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![Jinja](https://img.shields.io/badge/jinja-white.svg?style=for-the-badge&logo=jinja&logoColor=black)
@@ -49,7 +49,7 @@
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Jekyll](https://img.shields.io/badge/jekyll-%23404d59.svg?style=for-the-badge&logo=jekyll&logoColor=CC0000)
 
-- Databases:
+Databases:
 
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -60,7 +60,7 @@
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 
-- Tools
+Tools
 
 ![](https://img.shields.io/badge/NPM-informational?style=flat&logo=NPM&color=CB3837)
 ![](https://img.shields.io/badge/Heroku-informational?style=flat&logo=Heroku&color=430098)

@@ -18,6 +18,9 @@
 - 
 - ⚡ Fun fact: ...
 
+<h4 color="blue">Francisco's GitHub Stats</h4>
+<img src="https://profile-counter.glitch.me/*insert username here*/count.svg" />
+
 ### Technical Skills
 - Languages:
 

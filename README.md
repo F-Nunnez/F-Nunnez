@@ -48,6 +48,7 @@
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![jekyll](https://user-images.githubusercontent.com/110621165/206099735-b5f0c83f-1ec2-4236-acfc-dc5f0eb88732.svg)
 
 - Databases:
 

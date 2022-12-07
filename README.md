@@ -34,7 +34,7 @@
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![SQL](https://user-images.githubusercontent.com/110621165/206093043-00e41c54-fbab-4ca4-9b97-59858b9cc9f0.png)
+![SQL](https://user-images.githubusercontent.com/110621165/206093364-e0a9e92c-2de0-485d-8421-7cf65a78a9b0.png)
 
 ## 🎓 Education
 ![laguardia](https://user-images.githubusercontent.com/110621165/206085847-0aec380e-ca9b-4ba4-ac37-13932515b735.png)

@@ -13,7 +13,7 @@
 - 🤔 I’m looking for help with ...
 - 💬 Questions / feedback, please reach out
 - 📫 How to reach me: francisconunez582@gmail.com
-- ![linkedin](https://img.shields.io/badge/linkedin-informational?style=flat&logo=linkedin&message=linkedin.com/in/franknz&color=0A66C2)
+- ![linkedin](https://img.shields.io/badge/linkedin-linkedin.com/in/franknz?style=flat&logo=linkedin&color=0A66C2)
 
 - ⚡ Fun fact:
 
@@ -59,6 +59,7 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
 🪡 IDEs/Editors
+   
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![Atom](https://img.shields.io/badge/Atom-%2366595C.svg?style=for-the-badge&logo=atom&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
@@ -73,6 +74,7 @@
 ![](https://img.shields.io/badge/GitHub-informational?style=flat&logo=GitHub&color=181717)
 
 ## 🎓 Education
+   
 ![laguardia](https://user-images.githubusercontent.com/110621165/206085847-0aec380e-ca9b-4ba4-ac37-13932515b735.png)
 
 ![coding-dojo](https://user-images.githubusercontent.com/110621165/206084000-2a50d121-e7aa-489f-bd69-e2c01e378a3e.png) | Full-Stack Developer Certificate in Python, Java and MERN

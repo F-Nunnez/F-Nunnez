@@ -47,7 +47,7 @@
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Jekyll](https://img.shields.io/badge/jekyll-%23563D7C.svg?style=for-the-badge&logo=jekyll&logoColor=white)
+![Jekyll](https://img.shields.io/badge/jekyll-%23563D7C.svg?style=for-the-badge&logo=jekyll&logoColor=CC0000)
 ![](https://img.shields.io/badge/Jekyll-informational?style=flat&logo=Jekyll&color=CC0000)
 
 - Databases:

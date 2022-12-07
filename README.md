@@ -65,6 +65,7 @@
 ![](https://img.shields.io/badge/NPM-informational?style=flat&logo=NPM&color=CB3837)
 ![](https://img.shields.io/badge/Heroku-informational?style=flat&logo=Heroku&color=430098)
 ![](https://img.shields.io/badge/Git-informational?style=flat&logo=Git&color=F05032)
+![](https://img.shields.io/badge/Hyper-informational?style=flat&logo=Hyper&color=000000)
 ![](https://img.shields.io/badge/GitHub-informational?style=flat&logo=GitHub&color=181717)
 
 ## 🎓 Education

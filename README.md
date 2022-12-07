@@ -11,7 +11,7 @@
 
 ### 🔭 I’m currently working on
  
-- 👯 I’m looking to collaborate on ...
+- 👯 I’m looking to collaborate on future projects
 - 🤔 I’m looking for help with ...
 - 💬 Questions / feedback, please reach out
 - 📫 How to reach me: francisconunez582@gmail.com
@@ -48,8 +48,9 @@
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Jekyll](https://img.shields.io/badge/jekyll-%23404d59.svg?style=for-the-badge&logo=jekyll&logoColor=CC0000)
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 
-Databases:
+💽 Databases:
 
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -60,7 +61,7 @@ Databases:
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 
-Tools
+🛠️ Tools
 
 ![](https://img.shields.io/badge/NPM-informational?style=flat&logo=NPM&color=CB3837)
 ![](https://img.shields.io/badge/Heroku-informational?style=flat&logo=Heroku&color=430098)

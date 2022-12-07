@@ -4,11 +4,11 @@
    Hi there, I'm Francisco 👋
 </h3>
 <h2 align="center">
-   I'm a Full-Stack Developer in Python, Java and MERN
+   I'm a Full-Stack Developer in Python, Java and MERN 
 </h2>
 **F-Nunnez/F-Nunnez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-
+![Amazon Alexa](https://img.shields.io/badge/amazon%20alexa-52b5f7?style=for-the-badge&logo=amazon%20alexa&logoColor=white)
 
 
 Here are some ideas to get you started:

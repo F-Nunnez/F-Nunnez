@@ -4,24 +4,23 @@
    Hi there, I'm Francisco 👋
 </h3>
 <h2 align="center">
-   I'm a Full-Stack Developer in Python, Java and MERN 
+   I'm a Full-Stack Developer in `**Python**`, `**Java**` and `**MERN**` 
 </h2>
-**F-Nunnez/F-Nunnez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-
-### 🔭 I’m currently working on
+### 💻 I’m currently working on
  
-- 👯 I’m looking to collaborate on future projects
+- 👨‍💻👩‍💻 I’m looking to collaborate on future projects
 - 🤔 I’m looking for help with ...
 - 💬 Questions / feedback, please reach out
 - 📫 How to reach me: francisconunez582@gmail.com
 - 
-- ⚡ Fun fact: ...
+- ⚡ Fun fact:
+<cite>My favourite hobby is; crossFit 🏋️‍♀️ 5 to 6 times a week.<cite> I have some ideas for a mobile app to track my workouts.
 ### 🌱 I’m currently learning
 
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 
-<h4>Visitor Count</h4>
+<h4>✨Visitor Count✨</h4>
 
 <img src="https://profile-counter.glitch.me/F-Nunnez/count.svg" />
 
@@ -48,7 +47,7 @@
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Jekyll](https://img.shields.io/badge/jekyll-%23404d59.svg?style=for-the-badge&logo=jekyll&logoColor=CC0000)
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![springboot](https://img.shields.io/badge/springboot-%6DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
 
 💽 Databases:
 

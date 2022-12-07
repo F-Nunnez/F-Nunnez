@@ -18,7 +18,7 @@
 - 
 - ⚡ Fun fact: ...
 
-<h4 color="blue">Visitor Count</h4>
+<h4>Visitor Count</h4>
 
 <img src="https://profile-counter.glitch.me/F-Nunnez/count.svg" />
 
@@ -36,5 +36,6 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 ### 🎓 Education
-![Coding Dojo]()
+![coding-dojo](https://user-images.githubusercontent.com/110621165/206083668-edb9c521-5fbc-4e35-8c64-6b7506296329.png)
+
 ![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)

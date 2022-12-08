@@ -12,9 +12,9 @@
  <dd>👨‍💻👩‍💻 I’m looking to collaborate on future projects</dd>
  <dd>🤔 I’m looking for help with</dd>
  <dd>💬 Questions / feedback, please reach out</dd>
- <dd>⚡ Fun fact:</dd>
 </dl>
 
+## ⚡ Fun fact:
 > <cite>My favourite hobby is; crossFit 🏋️‍♀️ 5 to 6 times a week.<cite> I have some ideas for a mobile app to track my workouts.
 
 How to reach me:
@@ -23,7 +23,7 @@ How to reach me:
 
 ![LinkedIn](https://img.shields.io/badge/-linkedin.com/in/franknz-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)   
    
-### 🌱 I’m currently learning
+## 🌱 I’m currently learning
 
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 
@@ -33,7 +33,7 @@ How to reach me:
 
 [![Francisco's GitHub stats](https://github-readme-stats.vercel.app/api?username=F-Nunnez)](https://github.com/F-Nunnez/github-readme-stats)
 
-### 💼 Technical Skills
+## 💼 Technical Skills
 **🔣 Languages:**
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)

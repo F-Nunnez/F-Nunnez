@@ -14,13 +14,14 @@
  <dd>💬 Questions / feedback, please reach out</dd>
  <dd>⚡ Fun fact:</dd>
 </dl>
+
 > <cite>My favourite hobby is; crossFit 🏋️‍♀️ 5 to 6 times a week.<cite> I have some ideas for a mobile app to track my workouts.
 
 How to reach me:
    
-![Gmail](https://img.shields.io/badge/Gmail-francisconunez582@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)   
+![Gmail](https://img.shields.io/badge/Gmail-D14836-francisconunez582@gmail.com-fff?style=for-the-badge&logo=gmail&logoColor=white)   
 
-![LinkedIn](https://img.shields.io/badge/linkedin-linkedin.com/in/franknz-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)   
+![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg-linkedin.com/in/franknz?style=for-the-badge&logo=linkedin&logoColor=white)   
    
 ### 🌱 I’m currently learning
 

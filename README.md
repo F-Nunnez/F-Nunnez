@@ -14,7 +14,8 @@
  <dd>💬 Questions / feedback, please reach out</dd>
  <dd>📫 How to reach me: francisconunez582@gmail.com</dd>
 </dl>
-  ![linkedin](https://img.shields.io/badge/linkedin-linkedin.com/in/franknz-0A66C2?style=for-the-badge&logo=linkedin&color=0A66C2)
+
+![linkedin](https://img.shields.io/badge/linkedin-linkedin.com/in/franknz-0A66C2?style=for-the-badge&logo=linkedin&color=0A66C2)
 
 ⚡ Fun fact:
 

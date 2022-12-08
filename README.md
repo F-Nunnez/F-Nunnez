@@ -1,5 +1,3 @@
-<!--![BannerScreenshot 2022-12-06 164032](https://user-images.githubusercontent.com/110621165/206030675-7f3dd1ce-8f96-4242-8cf6-d24a731165c5.png)
-<img src="https://user-images.githubusercontent.com/110621165/206030675-7f3dd1ce-8f96-4242-8cf6-d24a731165c5.png" alt="my banner">-->
 <h3 align="center">
    Hi there, I'm Francisco 👋
 </h3>

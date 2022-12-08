@@ -15,7 +15,7 @@
 📫 How to reach me: francisconunez582@gmail.com<br>
 ![linkedin](https://img.shields.io/badge/linkedin-linkedin.com/in/franknz-0A66C2?style=for-the-badge&logo=linkedin&color=0A66C2)
 
-- ⚡ Fun fact:
+⚡ Fun fact:
 
 <cite>My favourite hobby is; crossFit 🏋️‍♀️ 5 to 6 times a week.<cite> I have some ideas for a mobile app to track my workouts.
    

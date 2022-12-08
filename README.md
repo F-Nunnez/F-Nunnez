@@ -19,8 +19,8 @@
 > <cite>My favourite hobby is; crossFit 🏋️‍♀️ 5 to 6 times a week.<cite> I have some ideas for a mobile app to track my workouts.
 
 How to reach me:   
-![gmail](https://img.shields.io/badge/gmail-francisconunez582@gmail.com-EA4335?style=for-the-badge&logo=gmail&color=white)   
-![linkedin](https://img.shields.io/badge/linkedin-linkedin.com/in/franknz-0A66C2?style=for-the-badge&logo=linkedin&color=0A66C2)
+![gmail](https://img.shields.io/badge/gmail-francisconunez582@gmail.com-D14836?style=for-the-badge&logo=gmail&color=white)   
+![linkedin](https://img.shields.io/badge/linkedin-linkedin.com/in/franknz-230077B5?style=for-the-badge&logo=linkedin&color=white)
    
 ### 🌱 I’m currently learning
 

@@ -1,9 +1,9 @@
-<h3 align="center">
-   Hi there, I'm Francisco 👋
-</h3>
 <h2 align="center">
-   I'm a Full-Stack Developer in <code>Python</code>, <code>Java</code> and <code>MERN</code> 
+   Hi there, I'm Francisco 👋
 </h2>
+<h4 align="center">
+   I'm a Full-Stack Developer in <code>Python</code>, <code>Java</code> and <code>MERN</code> 
+</h4>
 
 ### 💻 I’m currently working on
 
@@ -25,7 +25,7 @@
 
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-linkedin.com/in/franknz-%23fff.svg?style=for-the-badge&logo=linkedin&logoColor=white)   
    
-### 🌱 I’m currently learning
+🌱 I’m currently learning
 
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 

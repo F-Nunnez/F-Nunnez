@@ -8,16 +8,13 @@
 </h2>
 
 ### 💻 I’m currently working on
- 
-... 👨‍💻👩‍💻 I’m looking to collaborate on future projects
-
-... 🤔 I’m looking for help with ..
-
-... 💬 Questions / feedback, please reach out
-
-... 📫 How to reach me: francisconunez582@gmail.com
-
-... ![linkedin](https://img.shields.io/badge/linkedin-linkedin.com/in/franknz-0A66C2?style=for-the-badge&logo=linkedin&color=0A66C2)
+<dl>
+ <dd>👨‍💻👩‍💻 I’m looking to collaborate on future projects</dd>
+ <dd>🤔 I’m looking for help with</dd>
+ <dd>💬 Questions / feedback, please reach out</dd>
+ <dd>📫 How to reach me: francisconunez582@gmail.com</dd>
+ <dd>![linkedin](https://img.shields.io/badge/linkedin-linkedin.com/in/franknz-0A66C2?style=for-the-badge&logo=linkedin&color=0A66C2)</dd>
+</dl>   
 
 ⚡ Fun fact:
 

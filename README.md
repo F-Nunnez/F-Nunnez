@@ -57,6 +57,7 @@
 
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![mongoose](https://user-images.githubusercontent.com/110621165/206325137-91b4522e-24a1-42a7-acac-ed8c71cb54a9.png)  
 
 🪡 IDEs/Editors
    

@@ -15,13 +15,13 @@
 </dl>
 
 ### ⚡ Fun fact:
-> <cite>My favourite hobby is; crossFit 🏋️‍♀️ 5 to 6 times a week.<cite> I have some ideas for a mobile app to track my workouts.
+> My favourite hobby is; crossFit 🏋️‍♀️ 5 to 6 times a week.
 
 **How to reach me:**
    
-![Gmail](https://img.shields.io/badge/francisconunez582@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)   
+![Gmail](https://img.shields.io/badge/Gmail-francisconunez582@gmail.com-white?style=for-the-badge&logo=gmail&logoColor=white)   
 
-![LinkedIn](https://img.shields.io/badge/-linkedin.com/in/franknz-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)   
+![LinkedIn](https://img.shields.io/badge/LinkedIn-linkedin.com/in/franknz-%23fff.svg?style=for-the-badge&logo=linkedin&logoColor=white)   
    
 ### 🌱 I’m currently learning
 

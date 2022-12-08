@@ -9,6 +9,8 @@
 
 ### 💻 I’m currently working on
 
+📱 Mobile app to track workouts
+
 👨‍💻👩‍💻 I’m looking to collaborate on future projects
 
 🤔 I’m looking for help with
@@ -17,7 +19,7 @@
  
 ⚡ Fun fact:
 
-> My favourite hobby is; crossFit 🏋️‍♀️ 5 to 6 times a week.
+> My favourite hobby is; crossFit 🏋️‍♀️
 
 **How to reach me:**
    

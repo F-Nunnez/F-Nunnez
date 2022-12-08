@@ -8,13 +8,15 @@
 </h2>
 
 ### 💻 I’m currently working on
-<dl>
- <dd>👨‍💻👩‍💻 I’m looking to collaborate on future projects</dd>
- <dd>🤔 I’m looking for help with</dd>
- <dd>💬 Questions / feedback, please reach out</dd>
-</dl>
 
-### ⚡ Fun fact:
+👨‍💻👩‍💻 I’m looking to collaborate on future projects
+
+🤔 I’m looking for help with
+
+💬 Questions / feedback, please reach out 
+ 
+⚡ Fun fact:
+
 > My favourite hobby is; crossFit 🏋️‍♀️ 5 to 6 times a week.
 
 **How to reach me:**

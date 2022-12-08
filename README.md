@@ -12,14 +12,15 @@
  <dd>👨‍💻👩‍💻 I’m looking to collaborate on future projects</dd>
  <dd>🤔 I’m looking for help with</dd>
  <dd>💬 Questions / feedback, please reach out</dd>
- <dd>📫 How to reach me: francisconunez582@gmail.com</dd>
 </dl>
-
-![linkedin](https://img.shields.io/badge/linkedin-linkedin.com/in/franknz-0A66C2?style=for-the-badge&logo=linkedin&color=0A66C2)
 
 ⚡ Fun fact:
 
 > <cite>My favourite hobby is; crossFit 🏋️‍♀️ 5 to 6 times a week.<cite> I have some ideas for a mobile app to track my workouts.
+
+How to reach me:   
+![gmail](https://img.shields.io/badge/gmail-francisconunez582@gmail.com-EA4335?style=for-the-badge&logo=gmail&color=0A66C2)   
+![linkedin](https://img.shields.io/badge/linkedin-linkedin.com/in/franknz-0A66C2?style=for-the-badge&logo=linkedin&color=0A66C2)
    
 ### 🌱 I’m currently learning
 

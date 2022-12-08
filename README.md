@@ -9,11 +9,11 @@
 
 ### 💻 I’m currently working on
  
-> ...👨‍💻👩‍💻 I’m looking to collaborate on future projects
-> ...🤔 I’m looking for help with ...
-> ...💬 Questions / feedback, please reach out<br>
-> ...📫 How to reach me: francisconunez582@gmail.com<br>
-> ...![linkedin](https://img.shields.io/badge/linkedin-linkedin.com/in/franknz-0A66C2?style=for-the-badge&logo=linkedin&color=0A66C2)
+...👨‍💻👩‍💻 I’m looking to collaborate on future projects
+...🤔 I’m looking for help with ...
+...💬 Questions / feedback, please reach out<br>
+...📫 How to reach me: francisconunez582@gmail.com<br>
+...![linkedin](https://img.shields.io/badge/linkedin-linkedin.com/in/franknz-0A66C2?style=for-the-badge&logo=linkedin&color=0A66C2)
 
 ⚡ Fun fact:
 

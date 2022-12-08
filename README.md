@@ -19,9 +19,9 @@
 
 How to reach me:
    
-![Gmail](https://img.shields.io/badge/Gmail-D14836-francisconunez582@gmail.com-fff?style=for-the-badge&logo=gmail&logoColor=white)   
+![Gmail](https://img.shields.io/badge/francisconunez582@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)   
 
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)   
+![LinkedIn](https://img.shields.io/badge/-linkedin.com/in/franknz-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)   
    
 ### 🌱 I’m currently learning
 

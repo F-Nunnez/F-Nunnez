@@ -35,7 +35,9 @@
 
 <img src="https://profile-counter.glitch.me/F-Nunnez/count.svg" />
 
-[![Francisco's GitHub stats](https://github-readme-stats.vercel.app/api?username=F-Nunnez)](https://github.com/F-Nunnez/github-readme-stats)
+![Francisco's GitHub stats](https://github-readme-stats.vercel.app/api?username=F-Nunnez&theme=dark&show_icons=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=F-Nunnez&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 💼 Technical Skills
 🧮 Languages:
@@ -67,11 +69,15 @@
 ![Jekyll](https://img.shields.io/badge/jekyll-%23404d59.svg?style=for-the-badge&logo=jekyll&logoColor=CC0000)
 ![springboot](https://img.shields.io/badge/springboot-%6DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
 ![mongoose](https://user-images.githubusercontent.com/110621165/206325137-91b4522e-24a1-42a7-acac-ed8c71cb54a9.png)
+![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
 
 💾 Databases:
 
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)  
+<div>
+	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" alt="MySQL" title="MySQL" /></code>
+	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/182884177-d48a8579-2cd0-447a-b9a6-ffc7cb02560e.png" alt="mongoDB" title="mongoDB" /></code>
+</div>
+<br>
 
 🕸️Communication:
 

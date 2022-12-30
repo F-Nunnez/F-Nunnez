@@ -43,7 +43,6 @@
 🧮 Languages:
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
@@ -92,7 +91,6 @@
 🪡 IDEs/Editors
    
 <div>
-	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/192108889-232b3431-a585-4b36-a62d-9078bd3641d9.png" alt="Vim" title="Vim" /></code>
 	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/192108890-200809d1-439c-4e23-90d3-b090cf9a4eea.png" alt="InteliJ" title="InteliJ" /></code>
 	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/192108895-20dc3343-43e3-4a54-a90e-13a4abbc57b9.png" alt="Android Studio" title="Android Studio" /></code>
 	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/186711578-bf30cb30-40b7-4b45-95a5-bdf837c372e7.png" alt="Xcode" title="Xcode" /></code>
@@ -111,8 +109,8 @@
 
 ![](https://img.shields.io/badge/NPM-informational?style=flat&logo=NPM&color=CB3837)
 ![](https://img.shields.io/badge/Heroku-informational?style=flat&logo=Heroku&color=430098)
-![](https://img.shields.io/badge/Git-informational?style=flat&logo=Git&color=F05032)
 ![](https://img.shields.io/badge/Hyper-informational?style=flat&logo=Hyper&color=000000)
+![](https://img.shields.io/badge/Git-informational?style=flat&logo=Git&color=F05032)
 ![](https://img.shields.io/badge/GitHub-informational?style=flat&logo=GitHub&color=181717)
 
 ## 🎓 Education

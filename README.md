@@ -70,6 +70,7 @@
 ![mongoose](https://user-images.githubusercontent.com/110621165/206325137-91b4522e-24a1-42a7-acac-ed8c71cb54a9.png)
 ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
 ![EJS](https://img.shields.io/badge/ejs-B4CA65.svg?style=for-the-badge&logo=ejs&logoColor=A91E50)
+![laravel](https://user-images.githubusercontent.com/110621165/218121262-e51eea30-00c6-423d-b1b2-6ce39eeed1ee.png)
 
 💾 Databases:
 

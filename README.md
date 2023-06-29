@@ -1,5 +1,10 @@
 <!--<img src="https://user-images.githubusercontent.com/110621165/206526277-3be5e2fe-638a-4bea-a7cc-254352a38f51.png" alt="my banner">-->
 
+<div align=center>
+
+[![Spotify](https://realtime-spotify.vercel.app/api/spotify)](https://open.spotify.com/user/victorysaberg1)
+
+</div>
 <h2 align="center">
    Hi there, 👋
 </h2>
@@ -26,6 +31,8 @@
 ![Gmail](https://img.shields.io/badge/Gmail-francisconunez582@gmail.com-white?style=for-the-badge&logo=gmail&logoColor=red)   
 
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-linkedin.com/in/franknz-%23fff.svg?style=for-the-badge&logo=linkedin&logoColor=blue)   
+
+<!--![Twitter Follow](https://img.shields.io/twitter/follow/F_nunnez?style=for-the-badge&logo=twitter)-->
    
 🌱 I’m currently learning
 

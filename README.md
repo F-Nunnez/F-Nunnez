@@ -4,15 +4,18 @@
 
 </div>
 
-##### 🌟 Introduction
-
-*I'm a developer who embarked on a career transition journey into the world of programming and web development. I am excited to apply my newfound skills and continue growing in this ever-evolving field.*
-
 ##### 📚 Background
 
-*I have been working towards a computer science degree and have gained valuable experience through software development courses. In my pursuit of knowledge and growth, I enrolled in Coding Dojo's intensive 16-week program in 2022, where I improved my skills and gained hands-on experience in full stack development:*
+*I have been working towards a computer science degree and have gained valuable experience through software development courses. In my pursuit of knowledge and growth, I enrolled in Coding Dojo's intensive 16-week program in 2022, where I improved my skills and gained hands-on experience in full stack development. I am excited to apply my newfound skills and continue growing in this field.*
 
-![Web Fundamentals](https://img.shields.io/badge/Web%20Fundamentals-HTML%20%7C%20CSS%20%7C%20JavaScript-blue?style=for-the-badge) ![Python v21.1](https://img.shields.io/badge/Python%20v21.1-Python%20%7C%20Flask%20MVC%20%7C%20MySQL-blue?style=for-the-badge&logo=python&logoColor=yellow&labelColor=1c3e59) ![Java](https://img.shields.io/badge/Java%20-Java%20%7c%20Spring%20MVC%20%7C%20MySQL-red?style=for-the-badge&logo=openjdk&logoColor=ea8822&labelColor=618daa) ![MERN](https://img.shields.io/badge/MERN%20-MongoDB%20%7C%20Express%20%7C%20React%20%7C%20Node.js-blue?style=for-the-badge&logo=mongodb&logoColor=greene&labelColor=black)
+##### ⛩ Stacks completed
+![Web Fundamentals](https://img.shields.io/badge/Web%20Fundamentals-blue?style=for-the-badge)![HTML](https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5&logoColor=white)![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3&logoColor=white)![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=white)
+
+![Python v21.1](https://img.shields.io/badge/Python%20v21.1-blue?style=for-the-badge)![Python](https://img.shields.io/badge/Python-1c3e59?style=for-the-badge&logo=python&logoColor=yellow)![Flask](https://img.shields.io/badge/Flask-black?style=for-the-badge&logo=flask&logoColor=white)[![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
+
+[![Java](https://img.shields.io/badge/Java-F8981D?style=for-the-badge)](https://www.oracle.com/java/)![section](https://github.com/F-Nunnez/F-Nunnez/assets/110621165/be11cad3-cbde-448f-9e5b-5a6695c02ce7)![Java](https://github.com/F-Nunnez/F-Nunnez/assets/110621165/b8589e0b-18c5-4ac6-8c83-fe912a36a2a4)[![Java](https://img.shields.io/badge/Java-555555?style=for-the-badge)](https://www.oracle.com/java/)[![Java Spring](https://img.shields.io/badge/Java%20Spring-green?style=for-the-badge&logo=spring&logoColor=white)](https://spring.io/)[![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
+
+![MERN](https://img.shields.io/badge/MERN%20-black?style=for-the-badge)![MongoDB](https://img.shields.io/badge/MongoDB-green?style=for-the-badge&logo=mongodb&logoColor=white)![Express](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express&logoColor=white)![React](https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react&logoColor=white)![Node.js](https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js&logoColor=white)
 
 <div align="center">
 
@@ -42,7 +45,7 @@ Let's build something amazing together! ✨-->
 	  
 	* `Backend:`
 	
-	  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![SQL](https://img.shields.io/badge/SQL-Structured%20Query%20Language-blue?style=for-the-badge&logo=sql&logoColor=white&labelColor=black) 
+	  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![section](https://github.com/F-Nunnez/F-Nunnez/assets/110621165/be11cad3-cbde-448f-9e5b-5a6695c02ce7)![Java](https://github.com/F-Nunnez/F-Nunnez/assets/110621165/b8589e0b-18c5-4ac6-8c83-fe912a36a2a4)[![Java](https://img.shields.io/badge/Java-555555?style=for-the-badge)](https://www.oracle.com/java/) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![SQL](https://img.shields.io/badge/SQL-Structured%20Query%20Language-blue?style=for-the-badge&logo=sql&logoColor=white&labelColor=black) 
 	 
 	* `Frameworks:`
 	
@@ -126,9 +129,6 @@ Let's build something amazing together! ✨-->
 #### 🎓 Education
 
 [![Laguardia](https://user-images.githubusercontent.com/110621165/206085847-0aec380e-ca9b-4ba4-ac37-13932515b735.png)](#) <sub><sup>*A.S. in Computer Science*</sup></sub>
-
-
-<hr style="border-top: 1px dashed #999;">
 
 ![coding-dojo](https://user-images.githubusercontent.com/110621165/206084000-2a50d121-e7aa-489f-bd69-e2c01e378a3e.png) | Full-Stack Developer Certificate in Python, Java and MERN <sub><sup>*(16 WEEKS 90+ HRS/WK)*</sup></sub>
 

@@ -90,7 +90,9 @@ Let's build something amazing together! ✨-->
 
   * `Full Stack Development:`
     
-      ![LAMP](https://img.shields.io/badge/LAMP-Linux%20%7C%20Apache%20%7C%20MySQL%20%7C%20PHP-blue?style=for-the-badge&logo=linux&logoColor=white&logoWidth=20&logoPadding=5&labelColor=black) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)   
+      ![LAMP](https://img.shields.io/badge/LAMP%20-black?style=for-the-badge)![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white)[![MySQL Badge](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)![php](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+    
+     ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 
   * `Libraries:`
     

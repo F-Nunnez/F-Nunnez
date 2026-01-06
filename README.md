@@ -19,9 +19,9 @@
 
 <div align="center">
 
-##### Visitor Count
+<!-- ##### Visitor Count
 	
-<img src="https://profile-counter.glitch.me/F-Nunnez/count.svg" />
+<img src="https://profile-counter.glitch.me/F-Nunnez/count.svg" /> -->
 
 </div>
 
